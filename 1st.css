@@ -13,7 +13,6 @@ body, html {
     animation: fadeInAnimation ease 1.5s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    overflow: hidden;
 }
 
 .background {
@@ -31,7 +30,7 @@ body, html {
     justify-content: center;
     position: absolute;
     top: 30%;
-    left: 30%;
+    left: 37%;
     transform: translate(-30%, -30%);
     border-radius: 5%;
 }
@@ -49,10 +48,10 @@ body, html {
     line-height: 1.2;
     font-size: 10px;
     background-color: white;
-    margin-top: -25px;
-    padding-top: 10px;
+    margin-top: -15px;
+    padding-top: 5px;
   padding-right: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 5px;
   padding-left: 20px
 }
 
